@@ -15,4 +15,4 @@ Studying economics in the middle of the 2009 financial crisis taught me the valu
 Growing up I was and still am fascinated by how money works as a incentive to organize society and bring people together in a peaceful way.
 
 ### my projects
-[The Magic of Stratification](https://towardsdatascience.com/the-magic-of-stratification-in-data-analysis-f1ee4800a283)
+[The Magic of Stratification in Data Analysis](https://towardsdatascience.com/the-magic-of-stratification-in-data-analysis-f1ee4800a283)
