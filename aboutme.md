@@ -1,13 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+- Bachelor's in Economics
+- No professional DS experience, currently attending Lambda School
+- Interested in Natural Language Processing (NLP) and how it can help businesses create value for customers and shareholders
 
-Hi, my name is Sammy Lee - Data Scientist.
+Hi, my name is Sammy Lee - Data Scientist.  
 
+Studying economics in the middle of the 2009 financial crisis taught me the value of combining common sense with data to recognize financial anomolies like asset bubbles.  
 
+### Economics
+Growing up I was and still am fascinated by how money works as a incentive to organize society and bring people together in a peaceful way.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### my projects
+[The Magic of Stratification](https://towardsdatascience.com/the-magic-of-stratification-in-data-analysis-f1ee4800a283)
