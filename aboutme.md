@@ -18,3 +18,5 @@ Growing up I was and still am fascinated by how money works as a incentive to or
 
 ### my projects
 [The Magic of Stratification in Data Analysis](https://towardsdatascience.com/the-magic-of-stratification-in-data-analysis-f1ee4800a283)
+
+[Why Domain Expertise is Overrated-Part I](https://towardsdatascience.com/why-domain-expertise-is-overrated-part-i-d17898d2d679)
